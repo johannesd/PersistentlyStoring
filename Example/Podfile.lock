@@ -1,0 +1,16 @@
+PODS:
+  - PersistentlyStoring (0.1.0)
+
+DEPENDENCIES:
+  - PersistentlyStoring (from `../`)
+
+EXTERNAL SOURCES:
+  PersistentlyStoring:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PersistentlyStoring: 3b6865490197533572dbcbf06d479be604353f48
+
+PODFILE CHECKSUM: feda84dc12e17b84aee50dd65b6419368e2fc0f2
+
+COCOAPODS: 1.5.3

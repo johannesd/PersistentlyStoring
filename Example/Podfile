@@ -1,0 +1,6 @@
+use_frameworks!
+target 'PersistentlyStoring_Tests' do
+  pod 'PersistentlyStoring', :path => '../'
+  
+  
+end
